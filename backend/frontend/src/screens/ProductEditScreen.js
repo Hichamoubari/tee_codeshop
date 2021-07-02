@@ -101,7 +101,7 @@ function ProductEditScreen({ match, history }) {
 
     return (
         <div>
-            <Link to='/admin/productlist'>
+            <Link to='/admin/productlist' className="btn btn-dark my-3">
                 Go Back
             </Link>
 
